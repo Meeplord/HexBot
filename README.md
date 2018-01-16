@@ -14,11 +14,11 @@ A discord bot for all sorts of purposes, moderation, fun, and other stuff.
     description: "A test bot made entirely",
     owner: "Axiatinc",
     prefix: "!"
-});``` where it says "BOT_TOKEN" (if you dont know how to get your token, go to this quick and easy guide on how to do this: [How to get a bot token](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token"How to get a bot token"
+});``` where it says "BOT_TOKEN" (if you dont know how to get your token, go to this quick and easy guide on how to do this: [How to get a bot token](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token"How to get a bot token")
 4. Save that file.
 5. Open up your command prompt, and use cd ```C:Your\file\directory```
 6. Then type ```node file.js``` into the command prompt after step 5.
 7.Your bot should be ready! If you have any questions just message me on discord at Juuzou Suzuya#6044, or join our support server [HexBot Support Server](https://discord.gg/QtQBHcW)"HexBot Support Server".
 
-###Thats it!
+### Thats it!
 I hope you enjoy my bot, and check here frequently to find updates!
